@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+sklearn
+matplotlib
+ipykernel
+statsmodels
+tensorflow
+keras
+Pillow
+imageio
