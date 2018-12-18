@@ -107,6 +107,8 @@ mm_env/
 # mypy
 .mypy_cache/
 
+# Virtual env
+deep-learning-env/
 
 # Local data
 data/
